@@ -19,17 +19,14 @@
     <Filter Include="소스 파일\day3">
       <UniqueIdentifier>{bd00b94e-2d90-49f5-8ea3-8827dd155a20}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day4">
+      <UniqueIdentifier>{1f0275d3-3bfe-489f-b2b7-f80ce4c3d8aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day1">
+      <UniqueIdentifier>{6f46aaa1-5561-45fb-a8fa-896f493650d9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="day1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="기본구조.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="영어다이아몬드.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="변수.c">
       <Filter>소스 파일\day2</Filter>
     </ClCompile>
@@ -59,6 +56,30 @@
     </ClCompile>
     <ClCompile Include="연산자.c">
       <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="논리연산자.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="삼항조건연산자.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="비트단위연산자.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="day1.c">
+      <Filter>소스 파일\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="기본구조.c">
+      <Filter>소스 파일\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="영어다이아몬드.c">
+      <Filter>소스 파일\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="시프트연산자.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="if문.c">
+      <Filter>소스 파일\day4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
