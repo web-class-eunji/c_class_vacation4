@@ -10,7 +10,15 @@ int main(void)
 		printf("입력 : ");
 		scanf_s(" %c", &key,1);
 
+		switch (key) {
+		case 'a': x--;
+			break;
+		case 'd': x++;
+			break;
+		case 'q': printf("종료합니다.\n");
+			return 0;
+		default: printf("보기에 없는 키를 입력했습니다.");
+		}
 		
 	}
-	return 0;
 }
