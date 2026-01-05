@@ -18,6 +18,11 @@ int main(void)
 	// 4ÀÇ Á¦°ö : 4
 	//.... 10ÀÇ Á¦°ö : 10
 
+	int square;
+	for (square = 1; square <= 10; square++) {
+		printf("%dÀÇ Á¦°ö : %d\n", square, square * square);
+	}
+
 	
 	return 0;
 }

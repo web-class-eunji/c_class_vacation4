@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\day6">
       <UniqueIdentifier>{af842eaf-b9e6-46c4-b072-2459ea5ae949}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day7">
+      <UniqueIdentifier>{726e5c58-2b82-4cfd-9d11-5fdab286569a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="변수.c">
@@ -119,6 +122,30 @@
     </ClCompile>
     <ClCompile Include="for.c">
       <Filter>소스 파일\day6</Filter>
+    </ClCompile>
+    <ClCompile Include="무한루프.c">
+      <Filter>소스 파일\day7</Filter>
+    </ClCompile>
+    <ClCompile Include="break로그인.c">
+      <Filter>소스 파일\day7</Filter>
+    </ClCompile>
+    <ClCompile Include="continue.c">
+      <Filter>소스 파일\day7</Filter>
+    </ClCompile>
+    <ClCompile Include="ATM.c">
+      <Filter>소스 파일\day7</Filter>
+    </ClCompile>
+    <ClCompile Include="중첩for.c">
+      <Filter>소스 파일\day7</Filter>
+    </ClCompile>
+    <ClCompile Include="별트리.c">
+      <Filter>소스 파일\day7</Filter>
+    </ClCompile>
+    <ClCompile Include="난수.c">
+      <Filter>소스 파일\day7</Filter>
+    </ClCompile>
+    <ClCompile Include="랜덤가위바위보.c">
+      <Filter>소스 파일\day7</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
