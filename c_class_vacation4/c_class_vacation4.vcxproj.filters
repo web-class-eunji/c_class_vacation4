@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\day8">
       <UniqueIdentifier>{851c1293-d70f-48af-bf52-3c73a809ff5b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day9">
+      <UniqueIdentifier>{a0779bf1-62d1-4bf8-83e3-329b069da4bb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="변수.c">
@@ -164,6 +167,18 @@
     </ClCompile>
     <ClCompile Include="랜덤직업부여.c">
       <Filter>소스 파일\day8</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터.c">
+      <Filter>소스 파일\day9</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터와배열.c">
+      <Filter>소스 파일\day9</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터상수.c">
+      <Filter>소스 파일\day9</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터를이용한배열의연산.c">
+      <Filter>소스 파일\day9</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
