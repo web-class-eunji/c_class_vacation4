@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\day9">
       <UniqueIdentifier>{a0779bf1-62d1-4bf8-83e3-329b069da4bb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day10">
+      <UniqueIdentifier>{0c00498e-d681-4e02-a82f-50e5e5aa93d3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="변수.c">
@@ -179,6 +182,24 @@
     </ClCompile>
     <ClCompile Include="포인터를이용한배열의연산.c">
       <Filter>소스 파일\day9</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터배열2.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="랜덤플레이리스트.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원배열.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="좌석예약시스템.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="함수.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체.c">
+      <Filter>소스 파일\day10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
